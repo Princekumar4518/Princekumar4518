@@ -42,14 +42,6 @@ My goal is to contribute to a dynamic IT environment where I can apply and grow 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princekumarjio03&show_icons=true&theme=tokyonight" alt="Prince's GitHub stats" />
-</p>
-
----
-
 ### 📚 Motto
 
 > *“Learn, Improve, Repeat – because growth never stops in tech.”*
